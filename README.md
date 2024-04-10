@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Data Science
+
+![raf,360x360,075,t,fafafa ca443f4786](https://github.com/AKesh92/AKesh92/assets/163046821/9a3b548f-3be0-4fd9-8523-633be51e42b1)
+
+
+
 <!--
 **AKesh92/AKesh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
